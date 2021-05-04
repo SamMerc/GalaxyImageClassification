@@ -1,4 +1,4 @@
-#Galaxy_Image_Classification
+# Galaxy_Image_Classification
 
 Objective of this project was to classify images of astronomical objects into three categories:
 
